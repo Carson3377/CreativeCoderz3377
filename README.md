@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Science, and Music
 - 🌱 I’m currently learning HTML5, CSS3, Javascript and BootStrap 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me carsonlee221@gmail.com
 
 I'm dead...many things to learn...I'm die for it...many new knowledge
 
