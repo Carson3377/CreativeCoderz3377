@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Carson3377 very new to GitHub
+- 👋 Hi, I’m @Carson3377
 - 👀 I’m interested in Coding, Science, and Music
-- 🌱 I’m currently learning HTML5, CSS3, Javascript and BootStrap 
+- 🌱 I’m currently learning Advanced JavaScript and basic React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me carsonlee221@gmail.com
 
