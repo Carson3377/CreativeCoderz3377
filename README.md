@@ -2,16 +2,16 @@
 
 Hi I'm Carson, a self-taught and aspiring frontend developer💻, & science major in college. I've started coding for like 8 months already and currently learning React library. I possessed this web development interest in my college year of foundation level, and didn't give up and continue learning.💪🧠
 
-My Skills:
--- HTML5
--- CSS3
--- JavaScript
--- BootStrap
--- jQuery (Not much)
--- React (Learning)
--- NPM
--- Jest
--- Babel
+## My Skills:
+**HTML5**
+// **CSS3**
+// **JavaScript**
+// **BootStrap**
+// **jQuery (Not much)**
+// **React (Learning)**
+// **NPM**
+// **Jest**
+// **Babel**
 
 
 <body>
