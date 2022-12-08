@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Carson3377
-- 👀 I’m interested in Coding, Science, and Music
-- 🌱 I’m currently learning Advanced JavaScript and basic React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me carsonlee221@gmail.com
+Greetings...
 
-I'm dead...many things to learn...I'm die for it...many new knowledge
+Hi I'm Carson, a self-taught and aspiring frontend developer, & science major in college. I've started coding for like 8 months already and currently learning React library. I built this web development interest in my college year of foundation level, and didn't give up and continue learning.
 
-<!---
-Carson3377/Carson3377 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Skills:
+-- HTML5
+-- CSS3
+-- JavaScript
+-- BootStrap
+-- jQuery (Not much)
+-- React (Learning)
+
+[![My Skills](https://skills.thijs.gg/icons?=html,css,js,bootstrap,jquery,react&theme=dark)](https://skills.thijs.gg)
