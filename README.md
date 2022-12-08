@@ -38,5 +38,5 @@ Hi I'm <em>**Carson**</em>, a self-taught and aspiring frontend developer💻, &
 [![Carson3377's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carson3377&show_icons=true)](https://github.com/Carson3377/github-readme-stats)
 
 
-Hope to collab one day!
-[Visit me...](https://github.com/Carson3377)
+<em>**<Hope to collab one day!**</em>
+**[Visit me...](https://github.com/Carson3377)**
