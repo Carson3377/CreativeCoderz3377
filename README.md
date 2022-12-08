@@ -39,4 +39,4 @@ Hi I'm <em>**Carson**</em>, a self-taught and aspiring frontend developer💻, &
 
 
 Hope to collab one day!
-[[Visit me...](github.com/Carson3377)]
+[Visit me...](https://github.com/Carson3377)
