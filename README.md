@@ -27,3 +27,7 @@ Hi I'm <em>**Carson**</em>, a self-taught and aspiring frontend developer💻, &
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
 </div>
 </body>
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carson3377&theme=tokyonight)
