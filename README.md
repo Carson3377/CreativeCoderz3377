@@ -13,5 +13,4 @@ My Skills:
 [![My Skills](https://skills.thijs.gg/icons?=html,css,js,bootstrap,jquery,react)](https://skills.thijs.gg)
 
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carson3377"/>
+<img src="https://github-readme-stats/api/top-langs?username=zluvsand"/>
