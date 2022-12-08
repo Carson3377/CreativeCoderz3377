@@ -10,4 +10,4 @@ My Skills:
 -- jQuery (Not much)
 -- React (Learning)
 
-[![My Skills](https://skills.thijs.gg/icons?=html,css,js,bootstrap,jquery,react)](https://skills.thijs.gg)
+[!(https://skills.thijs.gg/icons?=html,css,js,bootstrap,jquery,react)](https://skills.thijs.gg)
