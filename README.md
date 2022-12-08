@@ -30,4 +30,4 @@ Hi I'm <em>**Carson**</em>, a self-taught and aspiring frontend developer💻, &
 
 ## Most Used Languages Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carson3377&theme=onedark)
+![Carson3377's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carson3377&theme=onedark)
