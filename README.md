@@ -13,6 +13,7 @@ My Skills:
 -- Jest
 -- Babel
 
+<body>
 <div class="DevIcons" style="display: inline; line-height: 2rem">
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -25,4 +26,4 @@ My Skills:
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
 </div>
-          
+</body>
