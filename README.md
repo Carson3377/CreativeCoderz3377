@@ -20,7 +20,7 @@ My Skills:
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-          <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          <i class="devicon-github-original"></i>
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
