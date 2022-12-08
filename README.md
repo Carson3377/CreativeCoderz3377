@@ -1,4 +1,4 @@
-## Introduction
+Greetings...
 
 Hi I'm Carson, a self-taught and aspiring frontend developer, & science major in college. I've started coding for like 8 months already and currently learning React library. I built this web development interest in my college year of foundation level, and didn't give up and continue learning.
 
@@ -10,4 +10,10 @@ My Skills:
 -- jQuery (Not much)
 -- React (Learning)
 
-[![My Skills](https://skills.thijs.gg/icons?=html,css,js,bootstrap,jquery,react)(https://skills.thijs.gg)]
+[![My Skills](https://skills.thijs.gg/icons?=html,css,js,bootstrap,jquery,react)](https://skills.thijs.gg)
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+
