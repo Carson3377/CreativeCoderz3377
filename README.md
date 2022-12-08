@@ -28,6 +28,6 @@ Hi I'm <em>**Carson**</em>, a self-taught and aspiring frontend developer💻, &
 </div>
 </body>
 
-## Most Used Languages
+## Most Used Languages Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carson3377&theme=tokyonight)
+![Top Langs](https://github-readme-stats/api/top-langs/?username=Carson3377&theme=tokyonight)
