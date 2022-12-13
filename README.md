@@ -30,12 +30,12 @@ Hi I'm <em>**Carson**</em>, a self-taught and aspiring frontend developer💻, &
 
 ## Most Used Languages Stats:
 
-[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carson3377&theme=cobalt)](https://github.com/Carson3377/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carson3377&theme=cobalt)](https://github.com/Carson3377/github-readme-stats)
 
 
 ## GitHub Stats Card
 
-[[Carson3377's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carson3377&show_icons=true)](https://github.com/Carson3377/github-readme-stats)
+[![Carson3377's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carson3377&show_icons=true)](https://github.com/Carson3377/github-readme-stats)
 
 
 <em>**Hope to collab one day!**</em>
