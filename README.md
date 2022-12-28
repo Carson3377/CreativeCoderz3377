@@ -8,7 +8,7 @@ Hi I'm <em>**Carson**</em>, a self-taught and aspiring frontend developer💻, &
 // **JavaScript**
 // **BootStrap**
 // **jQuery (Not much)**
-// **React (Learning)**
+// **React**
 // **NPM**
 // **Jest**
 // **Babel**
