@@ -29,9 +29,9 @@ Hi I'm <em>**Carson**</em>, a self-taught and aspiring frontend developer💻, &
 ## Other tools:
 **Markdown Guide**
           
-<div class="DevIcons" style="display: inline; margin: 1.5rem">
+<div class="DevIcons" style="display: inline">
           <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-          <span>Obsidian.md for Note-Taking</span>
+          <span style="color:cyan">*Obsidian.md for Note-Taking*</span>
 </div>
 </body>
 
