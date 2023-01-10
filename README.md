@@ -30,7 +30,8 @@ Hi I'm <em>**Carson**</em>, a self-taught and aspiring frontend developer💻, &
 **Markdown Guide**
           
 <div class="DevIcons" style="display: inline; margin: 1.5rem">
-          <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+          <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+          <span>Obsidian.md for Note-Taking</span>
 </div>
 </body>
 
