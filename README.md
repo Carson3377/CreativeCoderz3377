@@ -12,9 +12,8 @@ Hi I'm <em>**Carson**</em>, a self-taught and aspiring frontend developer💻, &
 // **NPM**
 // **Jest**
 // **Babel**
-<br>
-<br>
-## Other tools
+
+## Other tools:
 **Markdown Guide**
 
 <body>
@@ -28,6 +27,8 @@ Hi I'm <em>**Carson**</em>, a self-taught and aspiring frontend developer💻, &
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+</div>
+<div class="DevIcons" style="display: inline; margin: 1.5rem">
           <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </div>
 </body>
