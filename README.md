@@ -27,11 +27,10 @@ Hi I'm <em>**Carson**</em>, a self-taught and aspiring frontend developer💻, &
 </div>
           
 ## Other tools:
-**Markdown Guide**
+**Markdown Guide (Obsidian.md)**
           
-<div class="DevIcons" style="display: block">
+<div class="DevIcons" style="display: inline">
           <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-          *<span style="color:cyan; margin:0">Obsidian.md for Note-Taking</span>*
 </div>
 </body>
 
